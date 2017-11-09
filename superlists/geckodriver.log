@@ -180,3 +180,101 @@
 1510210839586	Marionette	INFO	Listening on port 40233
 1510210839758	Marionette	WARN	TLS certificate errors will be ignored for this session
 1510210843368	Marionette	INFO	New connections will no longer be accepted
+1510210943197	geckodriver	INFO	geckodriver 0.18.0
+1510210943208	geckodriver	INFO	Listening on 127.0.0.1:56485
+1510210944497	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510210945230	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510210945235	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510210945247	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510210945248	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510210945710	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510210945714	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510210945728	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510210945732	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510210948438	Marionette	INFO	Listening on port 41677
+1510210948618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510210952104	Marionette	INFO	New connections will no longer be accepted
+1510211486938	geckodriver	INFO	geckodriver 0.18.0
+1510211486947	geckodriver	INFO	Listening on 127.0.0.1:46521
+1510211488101	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510211488742	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211488746	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211488760	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211488761	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211489043	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211489044	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211489052	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211489052	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211490880	Marionette	INFO	Listening on port 33671
+1510211491102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510211492587	Marionette	INFO	New connections will no longer be accepted
+1510211738756	geckodriver	INFO	geckodriver 0.18.0
+1510211738763	geckodriver	INFO	Listening on 127.0.0.1:42371
+1510211739941	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510211740613	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211740618	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211740632	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211740633	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211740972	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211740973	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211740979	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211740980	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211743092	Marionette	INFO	Listening on port 33399
+1510211743253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510211744717	Marionette	INFO	New connections will no longer be accepted
+1510211957071	geckodriver	INFO	geckodriver 0.18.0
+1510211957076	geckodriver	INFO	Listening on 127.0.0.1:50769
+1510211958229	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510211958862	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211958867	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211958878	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211958879	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211959165	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211959166	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211959173	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510211959173	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510211960967	Marionette	INFO	Listening on port 39515
+1510211961166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510211962283	Marionette	INFO	New connections will no longer be accepted
+1510212088545	geckodriver	INFO	geckodriver 0.18.0
+1510212088556	geckodriver	INFO	Listening on 127.0.0.1:59347
+1510212089725	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510212090345	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212090350	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212090362	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212090363	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212090664	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212090668	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212090676	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212090677	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212092623	Marionette	INFO	Listening on port 44575
+1510212092760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510212093913	Marionette	INFO	New connections will no longer be accepted
+1510212168756	geckodriver	INFO	geckodriver 0.18.0
+1510212168770	geckodriver	INFO	Listening on 127.0.0.1:49287
+1510212169907	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510212170551	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212170556	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212170568	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212170569	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212170842	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212170842	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212170849	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212170850	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212172597	Marionette	INFO	Listening on port 45099
+1510212172764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510212184133	Marionette	INFO	New connections will no longer be accepted
+1510212633589	geckodriver	INFO	geckodriver 0.18.0
+1510212633600	geckodriver	INFO	Listening on 127.0.0.1:36925
+1510212634746	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510212635374	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212635379	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212635391	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212635392	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212635673	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212635673	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212635682	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510212635683	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510212637329	Marionette	INFO	Listening on port 45175
+1510212637601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510212640471	Marionette	INFO	New connections will no longer be accepted
