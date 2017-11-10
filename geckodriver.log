@@ -1,0 +1,42 @@
+1510289896552	geckodriver	INFO	geckodriver 0.18.0
+1510289896560	geckodriver	INFO	Listening on 127.0.0.1:60727
+1510289897783	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510289898485	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289898490	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289898501	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289898502	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289898823	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289898824	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289898833	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289898833	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289900744	Marionette	INFO	Listening on port 41471
+1510289900965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510289903821	Marionette	INFO	New connections will no longer be accepted
+1510289904190	geckodriver	INFO	geckodriver 0.18.0
+1510289904195	geckodriver	INFO	Listening on 127.0.0.1:45739
+1510289905422	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510289906199	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289906203	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289906215	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289906216	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289906570	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289906571	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289906579	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289906580	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289909707	Marionette	INFO	Listening on port 32937
+1510289909902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510289913785	Marionette	INFO	New connections will no longer be accepted
+1510289914253	geckodriver	INFO	geckodriver 0.18.0
+1510289914264	geckodriver	INFO	Listening on 127.0.0.1:41713
+1510289915476	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510289916227	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289916232	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289916245	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289916247	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289916625	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289916626	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289916633	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1510289916634	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1510289919127	Marionette	INFO	Listening on port 42227
+1510289919250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510289922351	Marionette	INFO	New connections will no longer be accepted
